@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://i.imgur.com/unwgorA.gif" alt="Demo GIF" width="500" height="500">
 </p>
+![ezgif-7-26cb48dea0](https://github.com/elvisnunezzz/testing/assets/61466900/81347bd7-fe53-40d7-a8f7-d5818b55a553)
 
 ## Introducción
 
