@@ -1,8 +1,8 @@
 # Super Maker App - README
-
 <p align="center">
-  <img src="https://giphy.com/gifs/qsALEUF4EiJtpluZmM " alt="Demo GIF" width="500" height="500">
+  <img src="https://i.imgur.com/unwgorA.gif" alt="Demo GIF" width="500" height="500">
 </p>
+
 ## Introducción
 
 ¡Bienvenido a la Super Maker App! Esta aplicación está diseñada para facilitar la compra y venta de productos a través de una interfaz fácil de usar. La aplicación está construida utilizando Java y utiliza Firebase como base de datos para proporcionar características como listado de productos, funcionalidad de búsqueda, gestión de carrito de compras y autenticación de usuarios.
