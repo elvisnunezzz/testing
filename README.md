@@ -2,9 +2,10 @@
 <p align="center">
   <img src="https://i.imgur.com/unwgorA.gif" alt="Demo GIF" width="500" height="500">
 </p>
-![ezgif-7-26cb48dea0](https://github.com/elvisnunezzz/testing/assets/61466900/81347bd7-fe53-40d7-a8f7-d5818b55a553)
 
 ## Introducción
+
+![ezgif-7-26cb48dea0](https://github.com/elvisnunezzz/testing/assets/61466900/1232f1ec-c914-4afd-89ed-95480353bf87)
 
 ¡Bienvenido a la Super Maker App! Esta aplicación está diseñada para facilitar la compra y venta de productos a través de una interfaz fácil de usar. La aplicación está construida utilizando Java y utiliza Firebase como base de datos para proporcionar características como listado de productos, funcionalidad de búsqueda, gestión de carrito de compras y autenticación de usuarios.
 
